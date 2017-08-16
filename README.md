@@ -1,6 +1,6 @@
 # Flask Docker image
 
-Flask Docker image powered by `Python 3.6.0`, with nginx and gunicorn. It is
+Flask Docker image powered by `Python 3.6.2`, with nginx and gunicorn. It is
 aimed at a production use.
 
 # Project quickstart
